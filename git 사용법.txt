@@ -1,0 +1,18 @@
+git폴더 생성
+git폴더 안에 java52폴더 생성
+우클릭 git bash here
+git init 입력
+git remote add origin https://github.com/slalom0914/java52.git 입력
+git pull origin master 입력
+
+폴더를 파일을 넣을때
+git add .    .은 전부다
+git add test.txt  
+
+git commit -m "dfsdf"
+
+서버에 올릴때
+git push origin master
+
+서버에 올려진거 내려받을때 
+git pull origin master
